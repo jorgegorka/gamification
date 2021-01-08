@@ -48,3 +48,7 @@ Check the [documentation available](https://github.com/jorgegorka/gamification/w
 Siete Valles means Seven Valleys. This is [where the name comes from](https://en.wikipedia.org/wiki/La_Rioja#Hydrography).
 
 Created by [Jorge Alvarez](https://www.alvareznavarro.es)
+
+## License
+
+Demanda is licensed under the MIT License.
